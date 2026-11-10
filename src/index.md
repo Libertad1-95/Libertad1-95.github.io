@@ -1,11 +1,11 @@
 ---
 title: Basicpage template
-author: Your Name
+author: Jie Zhou
 shortbio: Short bio
 description-meta: Short bio for meta-data
 og-url: https://basicpage.github.io
-location: Location, office
-email: noreply@noemail.com
+location: Beijing
+email: zhoujie@ict.ac.cn
 clickable-email: false
 picture: img/profile.png
 picture-round: false
