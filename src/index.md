@@ -2,7 +2,7 @@
 title: Jie Zhou's Homepage
 author: Jie Zhou
 description-meta: Personal academic homepage of Jie Zhou
-og-url: https://Libertad1-95.github.io
+og-url: https://jiez.github.io
 location: Beijing
 email: zhoujie@ict.ac.cn
 clickable-email: true
